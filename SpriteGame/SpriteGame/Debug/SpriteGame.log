@@ -1,0 +1,4 @@
+﻿  Graphics.cpp
+c:\users\joseph\documents\c++game\spritegame\spritegame\graphics.cpp(7): error C3861: 'SDL_CreateWindowAndRenderer': identifier not found
+c:\users\joseph\documents\c++game\spritegame\spritegame\graphics.cpp(8): error C3861: 'SDL_SetWindowTitle': identifier not found
+c:\users\joseph\documents\c++game\spritegame\spritegame\graphics.cpp(13): error C3861: 'SDL_DestroyWindow': identifier not found
